@@ -8,5 +8,3 @@ find the summary or narration related to the picture;
 mark the picture according to the summary or narrative;
 ignore the picture, if there is no meaningful summary or narratives;
 export the pictures for future usage
-
-it seems no one does this before..
